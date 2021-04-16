@@ -1,0 +1,5542 @@
+[
+  {
+    "idx": "C119AS305002",
+    "link_id_list": [
+      "A219AS305055"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -542.3814087159117,
+      1354.665524081327,
+      19.762062746331296
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305003",
+    "link_id_list": [
+      "A219AS305055"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -548.132470017299,
+      1356.1150788203813,
+      19.624215518607926
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305004",
+    "link_id_list": [
+      "A219AS305924"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -554.2391344931675,
+      1358.1187791652046,
+      16.81268664086012
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305005",
+    "link_id_list": [
+      "A219AS305055"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -545.2913145936909,
+      1355.315282940399,
+      19.65702756121763
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305006",
+    "link_id_list": [
+      "A219AS305924"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -521.6536667924956,
+      1356.0449260710739,
+      16.376667221717085
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305007",
+    "link_id_list": [
+      "A219AS305011"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -533.3860612161807,
+      1340.5053839473985,
+      19.5875192266993
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305008",
+    "link_id_list": [
+      "A219AS305011"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -536.4939560469356,
+      1341.571836733725,
+      19.62300822833818
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305009",
+    "link_id_list": [
+      "A219AS305011"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -538.4497474970412,
+      1316.6397014823742,
+      20.444281056721962
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305010",
+    "link_id_list": [
+      "A219AS305011"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -541.269153123314,
+      1317.55248109065,
+      20.475191225959733
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305011",
+    "link_id_list": [
+      "A219AS305011"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -544.20680396026,
+      1318.5035424707457,
+      20.448577753785358
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305012",
+    "link_id_list": [
+      "A219AS305054"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -565.8794957206701,
+      1316.350123864133,
+      21.088319788257095
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305013",
+    "link_id_list": [
+      "A219AS305054"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -563.0022443405469,
+      1315.3628147980198,
+      21.03398950412624
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305014",
+    "link_id_list": [
+      "A219AS305055"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -575.2575561032281,
+      1326.2885022787377,
+      18.485183872195208
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305015",
+    "link_id_list": [
+      "A219AS305168"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -567.4612819104223,
+      1194.1518398094922,
+      23.615405192355027
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305016",
+    "link_id_list": [
+      "A219AS305168"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -564.1335848795716,
+      1193.9338731076568,
+      23.533826030700567
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305017",
+    "link_id_list": [
+      "A219AS305941"
+    ],
+    "road_id": null,
+    "type": "1",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -560.2323126588599,
+      1197.1106116566807,
+      23.21427927655708
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.73,
+    "width": 0.9
+  },
+  {
+    "idx": "C119AS305018",
+    "link_id_list": [
+      "A219AS305076"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -586.7131314002327,
+      1159.4255063659512,
+      24.139101807039353
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305019",
+    "link_id_list": [
+      "A219AS305076"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -583.6286639093887,
+      1159.5437264898792,
+      24.09635749754446
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305020",
+    "link_id_list": [
+      "A219AS305076"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -580.6163421288948,
+      1159.5276874788105,
+      24.085437272850882
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305021",
+    "link_id_list": [
+      "A219AS305941"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -591.1968033272424,
+      1158.5762856514193,
+      21.543995571329745
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305022",
+    "link_id_list": [
+      "A219AS305077"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -611.0117060703924,
+      1166.4450444518588,
+      22.188152226526583
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305023",
+    "link_id_list": [
+      "A219AS305171"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -594.1480455894489,
+      1154.867541694548,
+      21.83067907588024
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305024",
+    "link_id_list": [
+      "A219AS305168"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -565.3196372523089,
+      1151.4793136855587,
+      23.390824452023665
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305025",
+    "link_id_list": [
+      "A219AS305168"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -562.4039989957237,
+      1151.4383431733586,
+      23.409050610261104
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305026",
+    "link_id_list": [
+      "A219AS305168"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -568.3721633885289,
+      1151.4456372135319,
+      23.339801839212726
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305027",
+    "link_id_list": [
+      "A219AS305941"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -557.8222931847558,
+      1152.084631041158,
+      20.80165835566234
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305028",
+    "link_id_list": [
+      "A219AS305941"
+    ],
+    "road_id": null,
+    "type": "5",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -557.5559514002525,
+      1150.7623253832571,
+      21.259307431037357
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305029",
+    "link_id_list": [
+      "A219AS305941"
+    ],
+    "road_id": null,
+    "type": "1",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -594.234421013447,
+      1161.3268766128458,
+      24.032035826343403
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.73,
+    "width": 0.9
+  },
+  {
+    "idx": "C119AS305030",
+    "link_id_list": [
+      "A219AS305941"
+    ],
+    "road_id": null,
+    "type": "1",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -596.5082878157264,
+      1163.04368660599,
+      24.028294978442915
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.73,
+    "width": 0.9
+  },
+  {
+    "idx": "C119AS305031",
+    "link_id_list": [
+      "A219AS305125"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -126.70862410072004,
+      354.0558038819581,
+      8.288208838087911
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305032",
+    "link_id_list": [
+      "A219AS305125"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -122.77893632539781,
+      356.0303997383453,
+      8.362071916257634
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305033",
+    "link_id_list": [
+      "A219AS305957"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -132.19868453865638,
+      351.6667390516959,
+      5.55723319469611
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305034",
+    "link_id_list": [
+      "A219AS305121"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -132.62106903461972,
+      350.8441423145123,
+      5.598088157493862
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305035",
+    "link_id_list": [
+      "A219AS305570"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -132.30939221096924,
+      344.72569524729624,
+      8.572521994323097
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305036",
+    "link_id_list": [
+      "A219AS305955"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -118.36131576949265,
+      328.9174033496529,
+      8.360061213528041
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305037",
+    "link_id_list": [
+      "A219AS305955"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -118.2977057583048,
+      333.3546103849076,
+      8.387425276064377
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305038",
+    "link_id_list": [
+      "A219AS305253"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -118.71730392804602,
+      322.8289467655122,
+      5.6001070945805935
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305039",
+    "link_id_list": [
+      "A219AS305957"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -118.01282885071123,
+      322.1864713123068,
+      5.541281870848323
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305040",
+    "link_id_list": [
+      "A219AS305125"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -110.42801909270929,
+      326.0886469716206,
+      8.362816111048502
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305041",
+    "link_id_list": [
+      "A219AS305251"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -91.26224665465998,
+      319.3444837159477,
+      8.577198464015211
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305042",
+    "link_id_list": [
+      "A219AS305251"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -87.09670813113917,
+      320.7123263096437,
+      8.626782166251232
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305043",
+    "link_id_list": [
+      "A219AS305955"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -81.82043561531464,
+      331.3032036437653,
+      9.184726058373116
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305044",
+    "link_id_list": [
+      "A219AS305253"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -80.86406625836389,
+      323.22726330300793,
+      5.986959217934185
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305045",
+    "link_id_list": [
+      "A219AS305952"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -81.27512933954131,
+      322.4328775526956,
+      6.025642578275793
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305046",
+    "link_id_list": [
+      "A219AS305121"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -88.39009288093075,
+      350.1252112570219,
+      5.8248369093895604
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305047",
+    "link_id_list": [
+      "A219AS305570"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -88.45548528741347,
+      344.0729335178621,
+      8.595198758985006
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305048",
+    "link_id_list": [
+      "A219AS305570"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -88.27540123619838,
+      339.7147563886829,
+      8.575889177782457
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305049",
+    "link_id_list": [
+      "A219AS305571"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -88.98716573184356,
+      350.8319899193011,
+      5.928456758862694
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305050",
+    "link_id_list": [
+      "A219AS305250"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -96.77246511139674,
+      347.3515099477954,
+      9.01610794217622
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305051",
+    "link_id_list": [
+      "A219AS305312"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      14.520592533575837,
+      -51.23973469203338,
+      5.522053595922259
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305052",
+    "link_id_list": [
+      "A219AS305313"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      34.74998010363197,
+      -53.35316400928423,
+      5.300885239743167
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305053",
+    "link_id_list": [
+      "A219AS305313"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      38.0750624279608,
+      -52.38308135746047,
+      5.338164725449033
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305054",
+    "link_id_list": [
+      "A219AS305971"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      44.94263853284065,
+      -50.825689134187996,
+      2.483197489633966
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305055",
+    "link_id_list": [
+      "A219AS305973"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      44.58971989760175,
+      -41.92011440964416,
+      5.5050379550737745
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305056",
+    "link_id_list": [
+      "A219AS305312"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      4.246120934549253,
+      -8.481646278407425,
+      5.670509389075022
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305057",
+    "link_id_list": [
+      "A219AS305312"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      0.8597026686766185,
+      -9.566588583402336,
+      5.551828551551708
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305058",
+    "link_id_list": [
+      "A219AS305974"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -5.340411216777284,
+      -18.265378992073238,
+      2.5940512124455637
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305059",
+    "link_id_list": [
+      "A219AS305316"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      5.853695668454748,
+      -52.88418876891956,
+      2.359727471305945
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305060",
+    "link_id_list": [
+      "A219AS305974"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      6.4587881990591995,
+      -53.71712438110262,
+      2.2328023290023253
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305061",
+    "link_id_list": [
+      "A219AS305971"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      39.92048166424502,
+      -25.645703294314444,
+      2.270686157976286
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305062",
+    "link_id_list": [
+      "A219AS305300"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      40.384103145392146,
+      -26.200639420654625,
+      2.228549751346989
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305063",
+    "link_id_list": [
+      "A219AS305300"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -6.281147267203778,
+      -11.949317056685686,
+      2.8278767891352032
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305064",
+    "link_id_list": [
+      "A219AS305316"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      45.151366559905,
+      -49.934718732722104,
+      2.531197723388644
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305065",
+    "link_id_list": [
+      "A219AS305313"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      29.50266979477601,
+      -28.57596330018714,
+      4.992369420401317
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305066",
+    "link_id_list": [
+      "A219AS305970"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      39.76351793680806,
+      -33.46322931861505,
+      5.108271969023349
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305067",
+    "link_id_list": [
+      "A219AS305970"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      39.757670708408114,
+      -36.528790512122214,
+      5.099103919549719
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305068",
+    "link_id_list": [
+      "A219AS305973"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      6.726250069972593,
+      -45.96233894955367,
+      5.209028127891969
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305069",
+    "link_id_list": [
+      "A219AS305973"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      6.765562387590762,
+      -42.580308760050684,
+      5.21999035460226
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305070",
+    "link_id_list": [
+      "A219AS305350"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      50.68189628381515,
+      -424.6245769369416,
+      8.547064441000671
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305071",
+    "link_id_list": [
+      "A219AS305350"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      53.66552446648711,
+      -425.2210180074908,
+      8.610171004190406
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305072",
+    "link_id_list": [
+      "A219AS305402"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      43.422926279425155,
+      -422.8298522690311,
+      5.597749344275854
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305073",
+    "link_id_list": [
+      "A219AS305402"
+    ],
+    "road_id": null,
+    "type": "1",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      42.14816875878023,
+      -428.74805810069665,
+      8.64736126265936
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.73,
+    "width": 0.9
+  },
+  {
+    "idx": "C119AS305074",
+    "link_id_list": [
+      "A219AS305402"
+    ],
+    "road_id": null,
+    "type": "1",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      41.520016085065436,
+      -431.7536294553429,
+      8.636714074642057
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.73,
+    "width": 0.9
+  },
+  {
+    "idx": "C119AS305075",
+    "link_id_list": [
+      "A219AS305351"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      34.720275668252725,
+      -456.74255754007027,
+      5.8741595592550055
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305076",
+    "link_id_list": [
+      "A219AS305350"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      39.89351056254236,
+      -458.65846221055835,
+      8.675070740708478
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305077",
+    "link_id_list": [
+      "A219AS305350"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      42.869803557987325,
+      -459.41736857546493,
+      8.691725996641509
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305078",
+    "link_id_list": [
+      "A219AS305351"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      68.47591777512571,
+      -456.4974924675189,
+      5.8235603014829
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305079",
+    "link_id_list": [
+      "A219AS305376"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      69.23532549466472,
+      -456.0789663931355,
+      5.735914814290922
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305080",
+    "link_id_list": [
+      "A219AS305880"
+    ],
+    "road_id": null,
+    "type": "1",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      61.33236763131572,
+      -453.740553334821,
+      8.541119436469472
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.73,
+    "width": 0.9
+  },
+  {
+    "idx": "C119AS305081",
+    "link_id_list": [
+      "A219AS305880"
+    ],
+    "road_id": null,
+    "type": "1",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      58.47807037178427,
+      -452.5089485729113,
+      8.527732991673616
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.73,
+    "width": 0.9
+  },
+  {
+    "idx": "C119AS305082",
+    "link_id_list": [
+      "A219AS305401"
+    ],
+    "road_id": null,
+    "type": "1",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      74.87979755579727,
+      -437.06205390254036,
+      8.120856235378909
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.73,
+    "width": 0.9
+  },
+  {
+    "idx": "C119AS305083",
+    "link_id_list": [
+      "A219AS305401"
+    ],
+    "road_id": null,
+    "type": "1",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      74.84359771438176,
+      -440.27136072469875,
+      8.147886493314033
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.73,
+    "width": 0.9
+  },
+  {
+    "idx": "C119AS305084",
+    "link_id_list": [
+      "A219AS305880"
+    ],
+    "road_id": null,
+    "type": "1",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      70.11517801013542,
+      -428.2457288391888,
+      8.482418112104213
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.73,
+    "width": 0.9
+  },
+  {
+    "idx": "C119AS305085",
+    "link_id_list": [
+      "A219AS305880"
+    ],
+    "road_id": null,
+    "type": "1",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      67.18070509313839,
+      -427.3840218721889,
+      8.513501101981632
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.73,
+    "width": 0.9
+  },
+  {
+    "idx": "C119AS305086",
+    "link_id_list": [
+      "A219AS305614"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      287.2786671645008,
+      321.77757444698364,
+      16.183692690679734
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305087",
+    "link_id_list": [
+      "A219AS305614"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      287.57870264939265,
+      325.10074032237753,
+      16.22858403930222
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305088",
+    "link_id_list": [
+      "A219AS306115"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      287.45434583275346,
+      314.59808889077976,
+      13.39282617448967
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305089",
+    "link_id_list": [
+      "A219AS305615"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      298.946504099702,
+      303.54975979495794,
+      12.942578789066914
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305090",
+    "link_id_list": [
+      "A219AS306105"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      305.8840738662402,
+      302.6484665032476,
+      15.754518988224248
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305091",
+    "link_id_list": [
+      "A219AS306105"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      309.4551234883256,
+      302.50564129976556,
+      15.81672097868696
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305092",
+    "link_id_list": [
+      "A219AS306113"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      319.6915720218094,
+      302.24030662328005,
+      15.691446105729028
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305093",
+    "link_id_list": [
+      "A219AS306113"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      323.0292385640787,
+      301.9645967227407,
+      15.710138564970109
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305094",
+    "link_id_list": [
+      "A219AS305624"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      330.29057160264347,
+      301.79125068103895,
+      13.02242876717736
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305095",
+    "link_id_list": [
+      "A219AS306115"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      334.5961760132923,
+      310.42840744834393,
+      13.0161247515137
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305096",
+    "link_id_list": [
+      "A219AS306106"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      340.73182023642585,
+      345.0745323682204,
+      13.111772500660749
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305097",
+    "link_id_list": [
+      "A219AS306106"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      296.15894562663743,
+      345.47912485012785,
+      13.313732176809253
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305098",
+    "link_id_list": [
+      "A219AS305615"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      309.06761693995213,
+      355.25082644680515,
+      13.675566810667647
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305099",
+    "link_id_list": [
+      "A219AS305624"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      328.46256302675465,
+      347.8133396250196,
+      13.290696821960935
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305100",
+    "link_id_list": [
+      "A219AS306113"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      319.75823972566286,
+      347.40922083798796,
+      15.963277878892796
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305101",
+    "link_id_list": [
+      "A219AS306113"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      323.20136323111365,
+      347.36032648943365,
+      15.887714818182104
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305102",
+    "link_id_list": [
+      "A219AS306105"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      315.61740375554655,
+      355.5893168565817,
+      16.523375207696077
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305103",
+    "link_id_list": [
+      "A219AS306105"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      312.33783395023784,
+      355.86818896466866,
+      16.53247952365315
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305104",
+    "link_id_list": [
+      "A219AS305623"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      296.77384724194417,
+      340.78259828919545,
+      16.032696281209937
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305105",
+    "link_id_list": [
+      "A219AS305623"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      296.48744189401623,
+      336.98556480463594,
+      16.145668462943448
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305106",
+    "link_id_list": [
+      "A219AS305623"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      340.79915298876585,
+      334.5463031246327,
+      15.865120898866024
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305107",
+    "link_id_list": [
+      "A219AS305623"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      341.13639582920587,
+      337.86068488517776,
+      15.816881582070465
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305108",
+    "link_id_list": [
+      "A219AS305645"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      569.8703763782396,
+      322.22153890971094,
+      10.50672867099911
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305109",
+    "link_id_list": [
+      "A219AS305645"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      570.0744772537146,
+      316.8756152787246,
+      10.594343562420136
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305110",
+    "link_id_list": [
+      "A219AS305655"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      571.0177889713086,
+      309.6894547413103,
+      8.043698500506352
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305111",
+    "link_id_list": [
+      "A219AS305646"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      581.1890124419588,
+      306.6438169227913,
+      7.883618119966414
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305112",
+    "link_id_list": [
+      "A219AS305560"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      592.8711200346006,
+      300.0058974553831,
+      10.722957180740906
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305113",
+    "link_id_list": [
+      "A219AS305560"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      597.2154781001736,
+      300.2858006292954,
+      10.694080072558592
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305114",
+    "link_id_list": [
+      "A219AS305656"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      606.7931142359157,
+      302.08118317788467,
+      10.948871010812667
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305115",
+    "link_id_list": [
+      "A219AS305656"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      611.1367126873811,
+      302.209067878779,
+      10.877997586062932
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305116",
+    "link_id_list": [
+      "A219AS305490"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      617.2793998232228,
+      303.0883375122212,
+      8.099364734247075
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305117",
+    "link_id_list": [
+      "A219AS305645"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      616.8927292955923,
+      314.9741615084931,
+      11.070209955753697
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305118",
+    "link_id_list": [
+      "A219AS305645"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      616.7260980049032,
+      319.33866094239056,
+      11.089252994372302
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305119",
+    "link_id_list": [
+      "A219AS305491"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      628.1046734320116,
+      326.6649848520756,
+      11.262600258596194
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305120",
+    "link_id_list": [
+      "A219AS305491"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      627.9788835511426,
+      329.9597433973104,
+      11.262029435432837
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305121",
+    "link_id_list": [
+      "A219AS305558"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      626.9750218316331,
+      337.2103719501756,
+      8.568745319561273
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305122",
+    "link_id_list": [
+      "A219AS305656"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      612.8649029965163,
+      337.81318579567596,
+      11.362656928258033
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305123",
+    "link_id_list": [
+      "A219AS305656"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      608.6369405213627,
+      338.36676462274045,
+      11.340177939378023
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305124",
+    "link_id_list": [
+      "A219AS305490"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      617.1551690907218,
+      337.99244733853266,
+      8.789038972039705
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305125",
+    "link_id_list": [
+      "A219AS305560"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      585.8831166612799,
+      349.3224513507448,
+      10.8554277233887
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305126",
+    "link_id_list": [
+      "A219AS305560"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      590.0757873171824,
+      349.9324392317794,
+      10.9668250409364
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305127",
+    "link_id_list": [
+      "A219AS305646"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      579.8962590100127,
+      348.1140218358487,
+      7.989763540317412
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305128",
+    "link_id_list": [
+      "A219AS305558"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      581.3567396115395,
+      338.649386389181,
+      8.20598876818265
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305129",
+    "link_id_list": [
+      "A219AS305491"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      582.0402315297397,
+      334.42384613631293,
+      10.949631649634028
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305130",
+    "link_id_list": [
+      "A219AS305491"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      582.0925505609484,
+      330.0569712878205,
+      10.959300493896436
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305131",
+    "link_id_list": [
+      "A219AS305723"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      590.3609126359806,
+      -27.562068996485323,
+      4.239118432118161
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305132",
+    "link_id_list": [
+      "A219AS305723"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      595.732592378452,
+      -27.40673567308113,
+      4.256770915860045
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305133",
+    "link_id_list": [
+      "A219AS306081"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      583.2150239281473,
+      -28.739163640420884,
+      1.5620727054427022
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305134",
+    "link_id_list": [
+      "A219AS306071"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      579.3762923176982,
+      -44.73111232742667,
+      3.477027452048816
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305135",
+    "link_id_list": [
+      "A219AS306071"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      579.2984707170981,
+      -48.0490020448342,
+      3.3785536807436074
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305136",
+    "link_id_list": [
+      "A219AS305721"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      579.0490472516394,
+      -37.35316514689475,
+      0.9447353457579197
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305137",
+    "link_id_list": [
+      "A219AS305735"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      605.3799411015934,
+      -35.546137114055455,
+      3.7555369739356905
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305138",
+    "link_id_list": [
+      "A219AS305735"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      610.7328307069256,
+      -35.999737420119345,
+      3.7306185748193172
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305139",
+    "link_id_list": [
+      "A219AS306072"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      617.9564960041898,
+      -35.95033350540325,
+      0.9844401168743673
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305140",
+    "link_id_list": [
+      "A219AS306071"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      627.2355335167958,
+      -46.10308105498552,
+      3.589765540573694
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305141",
+    "link_id_list": [
+      "A219AS306071"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      626.9869351084344,
+      -49.37599481549114,
+      3.6486221281781184
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305142",
+    "link_id_list": [
+      "A219AS305721"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      626.8713739822269,
+      -40.94377579400316,
+      0.8376990827245265
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305143",
+    "link_id_list": [
+      "A219AS306080"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      617.6343215702218,
+      -53.05857861600816,
+      3.583806687744783
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305144",
+    "link_id_list": [
+      "A219AS306080"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      617.3465693506296,
+      -56.454312360845506,
+      3.4885250584624714
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305145",
+    "link_id_list": [
+      "A219AS305737"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      617.2837860577856,
+      -63.717816604766995,
+      0.5696776953756242
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305146",
+    "link_id_list": [
+      "A219AS306072"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      614.0806077042944,
+      -72.91417456930503,
+      0.5606016462792454
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305147",
+    "link_id_list": [
+      "A219AS305735"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      606.8989486655919,
+      -73.18693474447355,
+      3.271069305009945
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305148",
+    "link_id_list": [
+      "A219AS305735"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      601.5262975658407,
+      -72.707897702232,
+      3.247596937475194
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305149",
+    "link_id_list": [
+      "A219AS305723"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      591.8407999416231,
+      -64.36709268158302,
+      3.4344051905419803
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305150",
+    "link_id_list": [
+      "A219AS305723"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      586.5116726629203,
+      -64.33513054996729,
+      3.3789899326921784
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305151",
+    "link_id_list": [
+      "A219AS306081"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      579.3114801892661,
+      -65.23006233386695,
+      0.5900758805985049
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305152",
+    "link_id_list": [
+      "A219AS306080"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      569.4233122082078,
+      -55.87434367183596,
+      3.6192321994096517
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305153",
+    "link_id_list": [
+      "A219AS306080"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      569.4734787875786,
+      -52.46750715561211,
+      3.775725936213192
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305154",
+    "link_id_list": [
+      "A219AS305737"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      569.9909713551751,
+      -61.09184379922226,
+      0.8258179836533373
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305155",
+    "link_id_list": [
+      "A219AS305869"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      589.735681756807,
+      -198.51119103468955,
+      3.1094071904192475
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305156",
+    "link_id_list": [
+      "A219AS305869"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      593.9985919567407,
+      -198.76638066861778,
+      3.0952097303724173
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305157",
+    "link_id_list": [
+      "A219AS306063"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      583.4459460814833,
+      -198.97141502145678,
+      0.469747503678164
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305158",
+    "link_id_list": [
+      "A219AS306053"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      579.6074406258995,
+      -213.74056816706434,
+      2.8505571247728483
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305159",
+    "link_id_list": [
+      "A219AS306053"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      579.4855872908374,
+      -217.08811555011198,
+      2.7947800958308306
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305160",
+    "link_id_list": [
+      "A219AS305759"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      599.7503436798579,
+      -209.08431015117094,
+      2.903973217041198
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305161",
+    "link_id_list": [
+      "A219AS305759"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      604.9251057435176,
+      -209.22244783863425,
+      2.8404103658646846
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305162",
+    "link_id_list": [
+      "A219AS306054"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      612.218689946516,
+      -208.7917600190267,
+      0.0063680487026474
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305163",
+    "link_id_list": [
+      "A219AS306053"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      621.8405100987875,
+      -219.0150008057244,
+      2.845015009004314
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305164",
+    "link_id_list": [
+      "A219AS306053"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      622.1077221463202,
+      -215.55337295075879,
+      2.901435182437538
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305165",
+    "link_id_list": [
+      "A219AS306062"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      611.8763787400676,
+      -221.83374445466325,
+      3.059036293901144
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305166",
+    "link_id_list": [
+      "A219AS306062"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      612.0186991540832,
+      -225.31905044568703,
+      3.0113204307130417
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305167",
+    "link_id_list": [
+      "A219AS306054"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      608.2777575022192,
+      -240.99414416076615,
+      0.5027482497979818
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305168",
+    "link_id_list": [
+      "A219AS305759"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      597.6494714860455,
+      -239.94281996646896,
+      3.218917774184092
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305169",
+    "link_id_list": [
+      "A219AS305759"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      601.8728469221969,
+      -240.3987660841085,
+      3.23114398979358
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305170",
+    "link_id_list": [
+      "A219AS305869"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      589.260284281976,
+      -241.21454641781747,
+      2.8601550936156315
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305171",
+    "link_id_list": [
+      "A219AS305869"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      585.0067546592327,
+      -240.8677080287598,
+      2.9077296470417338
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305172",
+    "link_id_list": [
+      "A219AS306063"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      576.2531435310957,
+      -232.37492864159867,
+      0.11712284191467148
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305173",
+    "link_id_list": [
+      "A219AS305871"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      579.3263056420255,
+      -208.674142931588,
+      -0.0772491315511914
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305174",
+    "link_id_list": [
+      "A219AS305760"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      567.4439110715757,
+      -227.26149278972298,
+      0.052080560412981924
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305175",
+    "link_id_list": [
+      "A219AS305760"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      612.7256623452413,
+      -230.11606301926076,
+      -0.04737335753754479
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305176",
+    "link_id_list": [
+      "A219AS305871"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      622.0062127404963,
+      -212.39936822513118,
+      -0.16910354712987186
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305177",
+    "link_id_list": [
+      "A219AS306062"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      566.9553192553576,
+      -223.4521085997112,
+      3.102902212445315
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305178",
+    "link_id_list": [
+      "A219AS306062"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      567.0226111808443,
+      -220.4078443190083,
+      3.1748813280303523
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305179",
+    "link_id_list": [
+      "A219AS305791"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      582.0978220975376,
+      -428.7814974943176,
+      4.675798857177114
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305180",
+    "link_id_list": [
+      "A219AS305791"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      587.3099813828594,
+      -429.10685884812847,
+      4.731802364351324
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305181",
+    "link_id_list": [
+      "A219AS306044"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      574.7122311578714,
+      -429.09028526348993,
+      1.8596256442353933
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305182",
+    "link_id_list": [
+      "A219AS305782"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      574.2169655471225,
+      -428.54113189550117,
+      1.6874705877770424
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305183",
+    "link_id_list": [
+      "A219AS305526"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      563.1209977006656,
+      -445.57534586964175,
+      4.378758768207831
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305184",
+    "link_id_list": [
+      "A219AS305526"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      562.9927413329715,
+      -450.2521371450275,
+      4.316029697605131
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305185",
+    "link_id_list": [
+      "A219AS305429"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      562.8683617684874,
+      -455.3225855687633,
+      4.820644393391987
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305186",
+    "link_id_list": [
+      "A219AS305429"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      562.4399971006787,
+      -459.7102681910619,
+      4.7252559676969526
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305187",
+    "link_id_list": [
+      "A219AS305794"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      562.7610294266487,
+      -465.9004905698821,
+      2.0111498201273577
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305188",
+    "link_id_list": [
+      "A219AS305793"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      595.7100598014658,
+      -439.88128767861053,
+      4.656815164057434
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305189",
+    "link_id_list": [
+      "A219AS305793"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      600.9531589610851,
+      -440.052409643773,
+      4.538229990190899
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305190",
+    "link_id_list": [
+      "A219AS306032"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      608.1578657011851,
+      -439.3468266399577,
+      1.7291769473699077
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305191",
+    "link_id_list": [
+      "A219AS305526"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      615.6653289918322,
+      -449.89719041856006,
+      4.621910237471141
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305192",
+    "link_id_list": [
+      "A219AS305526"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      615.2667878862121,
+      -453.22337558772415,
+      4.595252649009723
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305193",
+    "link_id_list": [
+      "A219AS305782"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      615.593633454584,
+      -446.76204759581015,
+      1.870046427869255
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305194",
+    "link_id_list": [
+      "A219AS305429"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      610.9689044666593,
+      -454.5898410757072,
+      4.496779851771862
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305195",
+    "link_id_list": [
+      "A219AS305429"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      610.7944851455395,
+      -459.8729296736419,
+      4.51229476211283
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305196",
+    "link_id_list": [
+      "A219AS305794"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      611.1277177942102,
+      -467.13909206027165,
+      1.8130681293001345
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305197",
+    "link_id_list": [
+      "A219AS306032"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      606.4199640975567,
+      -474.62781310779974,
+      2.2632350873627303
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305198",
+    "link_id_list": [
+      "A219AS305793"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      599.0987320424174,
+      -474.3964874879457,
+      5.035943212658779
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305199",
+    "link_id_list": [
+      "A219AS305793"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      593.8583476520726,
+      -473.8600378888659,
+      5.021586229718679
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305200",
+    "link_id_list": [
+      "A219AS305791"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      586.450148590433,
+      -477.3970436556265,
+      4.965058986236485
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305201",
+    "link_id_list": [
+      "A219AS305791"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      581.1526944988291,
+      -476.9711311608553,
+      5.028599951739324
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305202",
+    "link_id_list": [
+      "A219AS306044"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      570.3149868586916,
+      -469.58658948307857,
+      2.0460033880171835
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305203",
+    "link_id_list": [
+      "A219AS305824"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      575.287638172973,
+      -702.7979792603292,
+      7.863402769099352
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305204",
+    "link_id_list": [
+      "A219AS305824"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      579.5174454956432,
+      -702.9693515696563,
+      7.888464212468762
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305205",
+    "link_id_list": [
+      "A219AS306024"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      569.000878588995,
+      -703.3741548676044,
+      4.951930534900924
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305206",
+    "link_id_list": [
+      "A219AS305832"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      565.6441839249455,
+      -714.1388972313143,
+      5.000072206847051
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305207",
+    "link_id_list": [
+      "A219AS306022"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      565.6398585640709,
+      -720.3245246452279,
+      7.669854831475874
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305208",
+    "link_id_list": [
+      "A219AS306022"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      565.3897104521166,
+      -724.3533340999857,
+      7.695198821986239
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305209",
+    "link_id_list": [
+      "A219AS306025"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      558.1815024141106,
+      -729.6521061682142,
+      7.80387377664259
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305210",
+    "link_id_list": [
+      "A219AS306025"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      557.9127547616954,
+      -733.3025612058118,
+      7.798898488682497
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305211",
+    "link_id_list": [
+      "A219AS305835"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      558.18762904295,
+      -738.0675672972575,
+      5.365865745969259
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305212",
+    "link_id_list": [
+      "A219AS306024"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      568.1926910956972,
+      -747.183774581179,
+      5.628049308252088
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305213",
+    "link_id_list": [
+      "A219AS305824"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      573.3887133065145,
+      -747.7857140563428,
+      8.330465497339645
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305214",
+    "link_id_list": [
+      "A219AS305824"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      576.5909955821116,
+      -747.7600493072532,
+      8.324043608355211
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305215",
+    "link_id_list": [
+      "A219AS305834"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      589.6535670263693,
+      -748.2263208590448,
+      8.453682241581916
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305216",
+    "link_id_list": [
+      "A219AS305834"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      593.7560845200205,
+      -748.1697898376733,
+      8.437267292801707
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305217",
+    "link_id_list": [
+      "A219AS306021"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      600.1931118494249,
+      -747.3112486321479,
+      5.7216019698114735
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305218",
+    "link_id_list": [
+      "A219AS306023"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      601.3385583853233,
+      -727.583442571573,
+      8.005643716963945
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305219",
+    "link_id_list": [
+      "A219AS306023"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      601.0355427115574,
+      -730.9062536545098,
+      8.071387308340448
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305220",
+    "link_id_list": [
+      "A219AS306022"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      600.7784162136377,
+      -718.9710870543495,
+      8.168446232219466
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305221",
+    "link_id_list": [
+      "A219AS306022"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      600.5629448561813,
+      -722.2936072750017,
+      8.112070600822193
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305222",
+    "link_id_list": [
+      "A219AS306021"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      601.1536952017923,
+      -713.4015760244802,
+      5.108518802920344
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305223",
+    "link_id_list": [
+      "A219AS305834"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      595.9461863430915,
+      -714.1690529640764,
+      7.975651851981368
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305224",
+    "link_id_list": [
+      "A219AS305834"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      592.6138154520886,
+      -714.3720341511071,
+      8.026401916269933
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305225",
+    "link_id_list": [
+      "A219AS305835"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      601.1225349567248,
+      -735.9236784316599,
+      5.19862488653726
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305226",
+    "link_id_list": [
+      "A219AS305832"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      601.6170784974238,
+      -714.2238544141874,
+      4.947319733078842
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305227",
+    "link_id_list": [
+      "A219AS305420"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      326.5087819144246,
+      -439.86605194583535,
+      6.166627181900978
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305228",
+    "link_id_list": [
+      "A219AS305420"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      326.48313915973995,
+      -443.1968225836754,
+      6.193573607272114
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305229",
+    "link_id_list": [
+      "A219AS305999"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      325.84244558011414,
+      -432.6637878478505,
+      3.346092034532532
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305230",
+    "link_id_list": [
+      "A219AS306003"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      308.6631391412229,
+      -423.32091619912535,
+      6.194744621642599
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305231",
+    "link_id_list": [
+      "A219AS306003"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      305.3364076058497,
+      -423.2878921017982,
+      6.211629602297521
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305232",
+    "link_id_list": [
+      "A219AS305998"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      294.9761393829831,
+      -423.1671440913342,
+      6.209768335914433
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305233",
+    "link_id_list": [
+      "A219AS305998"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      291.59940634452505,
+      -423.00301951449364,
+      6.204948236200877
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305234",
+    "link_id_list": [
+      "A219AS305198"
+    ],
+    "road_id": null,
+    "type": "1",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      449.5657568499446,
+      -441.2225468121469,
+      5.30024284103213
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.73,
+    "width": 0.9
+  },
+  {
+    "idx": "C119AS305235",
+    "link_id_list": [
+      "A219AS305198"
+    ],
+    "road_id": null,
+    "type": "1",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      449.2924893326708,
+      -445.933896381408,
+      5.2393769641621475
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.73,
+    "width": 0.9
+  },
+  {
+    "idx": "C119AS305236",
+    "link_id_list": [
+      "A219AS305198"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      448.99272573000053,
+      -435.34433634672314,
+      2.66428814762601
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305237",
+    "link_id_list": [
+      "A219AS306120"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      441.33442750637187,
+      -469.38105101743713,
+      2.7216219076180153
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305238",
+    "link_id_list": [
+      "A219AS305885"
+    ],
+    "road_id": null,
+    "type": "1",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      440.0713414053316,
+      -451.90553298732266,
+      5.606449968090246
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.73,
+    "width": 0.9
+  },
+  {
+    "idx": "C119AS305239",
+    "link_id_list": [
+      "A219AS305885"
+    ],
+    "road_id": null,
+    "type": "1",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      440.26514926500386,
+      -455.59810607740656,
+      5.640982927612811
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.73,
+    "width": 0.9
+  },
+  {
+    "idx": "C119AS305240",
+    "link_id_list": [
+      "A219AS306120"
+    ],
+    "road_id": null,
+    "type": "1",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      440.4820421609911,
+      -465.2931587039493,
+      5.559330681799835
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.73,
+    "width": 0.9
+  },
+  {
+    "idx": "C119AS305241",
+    "link_id_list": [
+      "A219AS306122"
+    ],
+    "road_id": null,
+    "type": "1",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      440.5698039974086,
+      -475.66256135422736,
+      5.68739476497754
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.73,
+    "width": 0.9
+  },
+  {
+    "idx": "C119AS305242",
+    "link_id_list": [
+      "A219AS306122"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      441.15913346776506,
+      -480.460170338396,
+      3.0068918896291024
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305243",
+    "link_id_list": [
+      "A219AS306122"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      447.8871766977827,
+      -473.6640183692798,
+      2.776685492117579
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305244",
+    "link_id_list": [
+      "A219AS305885"
+    ],
+    "road_id": null,
+    "type": "5",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      447.67326782026794,
+      -460.43399433931336,
+      2.8514679261907645
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305245",
+    "link_id_list": [
+      "A219AS306120"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      447.78819149552146,
+      -460.79499341454357,
+      2.6101042948403546
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305246",
+    "link_id_list": [
+      "A219AS305885"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      441.22446221805876,
+      -460.47623226232827,
+      2.6883739839160796
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305247",
+    "link_id_list": [
+      "A219AS305198"
+    ],
+    "road_id": null,
+    "type": "5",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      440.1091783672455,
+      -435.416182869114,
+      2.76741674534199
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305248",
+    "link_id_list": [
+      "A219AS306120"
+    ],
+    "road_id": null,
+    "type": "5",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      447.8351318076602,
+      -469.5185886560939,
+      2.8729836261234993
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305249",
+    "link_id_list": [
+      "A219AS306122"
+    ],
+    "road_id": null,
+    "type": "5",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      447.43862558243563,
+      -480.234279721044,
+      3.026794578010282
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305250",
+    "link_id_list": [
+      "A219AS305245"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      284.58259482024005,
+      -423.5085811652243,
+      3.516711241720742
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305251",
+    "link_id_list": [
+      "A219AS305999"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      273.75628733995836,
+      -434.7666658484377,
+      3.763076599817353
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305252",
+    "link_id_list": [
+      "A219AS305420"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      273.32745482044993,
+      -439.7611783933826,
+      6.5823444746364
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305253",
+    "link_id_list": [
+      "A219AS305420"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      273.27215962525224,
+      -443.1423006299883,
+      6.621010904545216
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305254",
+    "link_id_list": [
+      "A219AS305223"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      272.678144167352,
+      -454.42800762411207,
+      6.374586221602087
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305255",
+    "link_id_list": [
+      "A219AS305223"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      272.4841369455098,
+      -457.37816265644506,
+      6.331560680799171
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305256",
+    "link_id_list": [
+      "A219AS306004"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      273.09108989918604,
+      -462.82658504042774,
+      3.6448972202663157
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305257",
+    "link_id_list": [
+      "A219AS305245"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      283.1903944668011,
+      -472.2619367595762,
+      3.667087161544572
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305258",
+    "link_id_list": [
+      "A219AS305998"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      290.3023896116065,
+      -472.5885178898461,
+      6.501859954199276
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305259",
+    "link_id_list": [
+      "A219AS305998"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      293.7236577384756,
+      -472.56177962291986,
+      6.533330093424439
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305260",
+    "link_id_list": [
+      "A219AS306003"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      304.28085753292544,
+      -472.12012648861855,
+      6.394288844401643
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305261",
+    "link_id_list": [
+      "A219AS306003"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      307.6253097471199,
+      -472.1672842022963,
+      6.409741948088197
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305262",
+    "link_id_list": [
+      "A219AS305419"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      314.6199715078692,
+      -471.59141985792667,
+      3.598883203877861
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305263",
+    "link_id_list": [
+      "A219AS306004"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      324.91235007945215,
+      -461.123411916662,
+      3.3296664477915954
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305264",
+    "link_id_list": [
+      "A219AS305223"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      325.02622964809416,
+      -454.2055953736417,
+      6.0475807984464325
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305265",
+    "link_id_list": [
+      "A219AS305223"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      325.1120820113574,
+      -450.55493488069624,
+      6.077278904415294
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305266",
+    "link_id_list": [
+      "A219AS305419"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      315.885564395634,
+      -423.88206586940214,
+      3.4114748094260534
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305267",
+    "link_id_list": [
+      "A219AS305349"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      75.90932655951474,
+      -429.6313787265681,
+      5.388897723388666
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305268",
+    "link_id_list": [
+      "A219AS305402"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      75.51344655855792,
+      -429.0259387232363,
+      5.351157723388681
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305269",
+    "link_id_list": [
+      "A219AS305033"
+    ],
+    "road_id": null,
+    "type": "5",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -556.3136950089247,
+      1127.115926402621,
+      20.744468039186657
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305270",
+    "link_id_list": [
+      "A219AS305614"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      334.6269815452979,
+      321.13185692811385,
+      15.880115547074269
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305271",
+    "link_id_list": [
+      "A219AS305614"
+    ],
+    "road_id": null,
+    "type": "2",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      334.31121273181634,
+      317.64875609846786,
+      15.803172489187702
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.6,
+    "width": 0.6
+  },
+  {
+    "idx": "C119AS305272",
+    "link_id_list": [
+      "A219AS305655"
+    ],
+    "road_id": null,
+    "type": "11",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      618.016864228819,
+      310.7130563328974,
+      8.437799870713064
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305273",
+    "link_id_list": [
+      "A219AS305168"
+    ],
+    "road_id": null,
+    "type": "1",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -553.8852739956928,
+      1151.4153178064153,
+      23.803304502402156
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.73,
+    "width": 0.9
+  },
+  {
+    "idx": "C119AS305274",
+    "link_id_list": [
+      "A219AS305931"
+    ],
+    "road_id": null,
+    "type": "1",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -527.607147263654,
+      1331.7993280296214,
+      20.068295555583745
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.73,
+    "width": 0.9
+  },
+  {
+    "idx": "C119AS305275",
+    "link_id_list": [
+      "A219AS305930"
+    ],
+    "road_id": null,
+    "type": "1",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -525.0353978769272,
+      1344.7978620119393,
+      19.414567483709575
+    ],
+    "country": "KR",
+    "z_offset": 2.1,
+    "height": 0.73,
+    "width": 0.9
+  },
+  {
+    "idx": "C119AS305276",
+    "link_id_list": [
+      "A219AS305903"
+    ],
+    "road_id": null,
+    "type": "9",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -204.52418691455387,
+      510.42352189915255,
+      6.912619012127919
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305277",
+    "link_id_list": [
+      "A219AS305902"
+    ],
+    "road_id": null,
+    "type": "9",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -207.1121028214111,
+      508.00411775615066,
+      6.8933431825637115
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  },
+  {
+    "idx": "C119AS305278",
+    "link_id_list": [
+      "A219AS305901"
+    ],
+    "road_id": null,
+    "type": "9",
+    "sub_type": "",
+    "dynamic": true,
+    "orientation": "+",
+    "point": [
+      -209.45101018989226,
+      505.8175079994835,
+      6.880057558505996
+    ],
+    "country": "KR",
+    "z_offset": null,
+    "height": null,
+    "width": null
+  }
+]

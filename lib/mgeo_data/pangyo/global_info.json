@@ -1,0 +1,12 @@
+{
+  "maj_ver": 2,
+  "min_ver": 7,
+  "global_coordinate_system": "+proj=utm +zone=52 +datum=WGS84 +units=m +no_defs ",
+  "local_origin_in_global": [
+    209402.1060309566,
+    533433.0550742222,
+    39.635310188720226
+  ],
+  "lane_change_link_included": true,
+  "license": "MORAI Inc."
+}
