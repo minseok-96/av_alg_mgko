@@ -6,6 +6,7 @@ from math import cos,sin,pi,sqrt,pow,atan2
 from geometry_msgs.msg import Point,Twist
 from nav_msgs.msg import Odometry,Path
 from std_msgs.msg import Float32
+from ca_msgs.msg import CollisionAvoidance
 from tf.transformations import euler_from_quaternion,quaternion_from_euler
 import numpy as np
 
@@ -18,14 +19,13 @@ class followTheCarrot :
         rospy.Subscriber("/target_vel", Float32, self.target_vel_callback)    
         rospy.Subscriber("ctrl_collision",CollisionAvoidance,self.collision_callback)
         self.ctrl_pub = rospy.Publisher('/cmd_vel',Twist, queue_size=1)
-
+        
         self.ctrl_msg=Twist()
         self.is_path=False
         self.is_odom=False
         self.collision_data=False
         self.is_target_vel=False
         self.is_ca = False
-    
    
         self.forward_point=Point()
         self.current_postion=Point()
@@ -81,23 +81,30 @@ class followTheCarrot :
 
                      
                 if self.is_look_forward_point :
+                    # print(self.is_look_forward_point)
                     global_path_point=[self.forward_point.x,self.forward_point.y,1]
                     local_path_point=det_t.dot(global_path_point)   
-                    theta=atan2(local_path_point[1],local_path_point[0])                    
+                    theta=atan2(local_path_point[1],local_path_point[0])   
+                    # print(self.is_ca)
+                    
                     if self.is_ca:
+                        # print(self.is_ca)
                         alpha = self.collision_data.ca_const_alpha
                         beta = self.collision_data.ca_const_beta
                         d_min = self.collision_data.ca_distance
 
                         frac_alpha_dist = alpha/d_min
                         result = (frac_alpha_dist * self.collision_data.phi_gap + beta *theta) / (frac_alpha_dist + beta)
+                        result = -3*result
+                        print("result1:{}".format(result))
                     else:
-                        result = theta
-                    self.ctrl_msg.angular.z = -result
-                    self.ctrl_msg.linear.x = self.target_vel
+                        result = -theta * 2
+                        print("result2:{}".format(result))
+                    self.ctrl_msg.angular.z = result
+                    self.ctrl_msg.linear.x = 3
 
-                    self.ctrl_msg.angular.z=-theta*2
-                    self.ctrl_msg.linear.x=self.target_vel
+                    # self.ctrl_msg.angular.z=-theta*2
+                    # self.ctrl_msg.linear.x=self.target_vel
                     
                 else : 
                     # 전방주시 포인트를 찾지 못했을 때
@@ -126,13 +133,16 @@ class followTheCarrot :
         self.current_velocity=msg.twist.twist.linear.x
 
     def collision_callback(self, msg):
-        self.is_ca = msg.do_ca
-
+        # print(msg.ca_distance)
+        if msg.ca_distance > 10:
+            self.is_ca = False
+        else:
+            self.is_ca = msg.do_ca
+        self.collision_data = msg
 
     def target_vel_callback(self,msg):
-        self.target_vel=msg.data
-        self.collision_data=msg
         self.is_target_vel=True
+        self.target_vel=msg.data
 
 
 if __name__ == '__main__':
