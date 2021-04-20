@@ -85,21 +85,23 @@ class followTheCarrot :
                     global_path_point=[self.forward_point.x,self.forward_point.y,1]
                     local_path_point=det_t.dot(global_path_point)   
                     theta=atan2(local_path_point[1],local_path_point[0])   
-                    # print(self.is_ca)
-                    
+
                     if self.is_ca:
                         # print(self.is_ca)
                         alpha = self.collision_data.ca_const_alpha
                         beta = self.collision_data.ca_const_beta
                         d_min = self.collision_data.ca_distance
-
+                        print(alpha , beta , d_min)
                         frac_alpha_dist = alpha/d_min
+
                         result = (frac_alpha_dist * self.collision_data.phi_gap + beta *theta) / (frac_alpha_dist + beta)
-                        result = -3*result
+                        result = -result 
                         print("result1:{}".format(result))
+
                     else:
-                        result = -theta * 2
+                        result = -theta *2
                         print("result2:{}".format(result))
+
                     self.ctrl_msg.angular.z = result
                     self.ctrl_msg.linear.x = 3
 
@@ -110,10 +112,11 @@ class followTheCarrot :
                     # 전방주시 포인트를 찾지 못했을 때
                     self.ctrl_msg.angular.z=0.0
                     self.ctrl_msg.linear.x=0.0
-
+                    
                 if self.ctrl_msg.linear.x < 0.0 :
                     self.ctrl_msg.angular.z=0.0
                     self.ctrl_msg.linear.x=0.0
+                
                 self.ctrl_pub.publish(self.ctrl_msg)
 
         
@@ -134,10 +137,7 @@ class followTheCarrot :
 
     def collision_callback(self, msg):
         # print(msg.ca_distance)
-        if msg.ca_distance > 10:
-            self.is_ca = False
-        else:
-            self.is_ca = msg.do_ca
+        self.is_ca = msg.do_ca
         self.collision_data = msg
 
     def target_vel_callback(self,msg):
